@@ -1,0 +1,11 @@
+# Proyecto-G-nesis-ASSISTENTE-
+Adan: Encargado de la logica, puede crear archivos, leerlos, analizarlos y organizarlos de acuerdo a las preferencias del usuario.
+Eva: Encargada de socializar con el usuario, hablarle y crear historias para que las lea (puede que las saque de Chrome lol).
+
+-- Asistente_Biblico
+
+Un proyecto que asegura dos IAs como asistentes virtuales
+de almacenamiento, charla y mas!
+
+A futuro crear, pero por ahora se asegura a Adan y Eva, los hijos
+de *Dios*.
